@@ -11,7 +11,7 @@ class AdminPanel extends StatefulWidget {
 
 class _AdminPanelState extends State<AdminPanel> {
   String? filePath;
-  Map<String, dynamic>? jsonData;
+  List<dynamic>? jsonData;
 
   // Function to pick JSON file
   Future<void> pickJsonFile() async {
@@ -20,42 +20,36 @@ class _AdminPanelState extends State<AdminPanel> {
       allowedExtensions: ['json'],
     );
 
-    if (result != null) {
-  if (result.files.single.bytes != null) {
-    // Web — read data from bytes
-    final contents = utf8.decode(result.files.single.bytes!);
-    setState(() {
-      jsonData = json.decode(contents);
-    });
-  } else if (result.files.single.path != null) {
-    // Mobile — read data from file path
-    final file = File(result.files.single.path!);
-    final contents = await file.readAsString();
-    setState(() {
-      jsonData = json.decode(contents);
-    });
-  } else {
-    print("No file path or bytes found");
-  }
+    if (result?.files.single.path != null) {
+  final file = File(result!.files.single.path!);
+  final contents = await file.readAsString();
+  List<dynamic> data = json.decode(contents);
+  setState(() {
+    jsonData = data;
+  });
+  print("File loaded successfully.");
+} else {
+  print("No file selected.");
 }
+
 
   }
 
   // Function to upload JSON data to Firestore
   Future<void> uploadToFirestore() async {
-    if (jsonData != null) {
-      jsonData!.forEach((key, value) async {
-        await FirebaseFirestore.instance
-            .collection('yourCollectionName')
-            .doc(key)
-            .set(value);
-      });
-
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text("Data uploaded successfully!")),
-      );
+  if (jsonData != null) {
+    for (var item in jsonData!) {
+      await FirebaseFirestore.instance
+          .collection('exam_data')
+          .add(item); // using .add() since we don't have a specific doc ID
     }
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text("Data uploaded successfully!")),
+    );
   }
+}
+
 
   @override
   Widget build(BuildContext context) {
