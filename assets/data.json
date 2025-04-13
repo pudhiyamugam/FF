@@ -1,0 +1,466 @@
+[
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS001",
+  "B": "PKD22CS014",
+  "C": "PKD22CS027",
+  "D": "PKD22CS040",
+  "E": "PKD22CS053",
+  "F": "PKD22CS066"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS002",
+  "B": "PKD22CS015",
+  "C": "PKD22CS028",
+  "D": "PKD22CS041",
+  "E": "PKD22CS054",
+  "F": "PKD22CS067"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS003",
+  "B": "PKD22CS016",
+  "C": "PKD22CS029",
+  "D": "PKD22CS042",
+  "E": "PKD22CS055",
+  "F": "PKD22CS068"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS004",
+  "B": "PKD22CS017",
+  "C": "PKD22CS030",
+  "D": "PKD22CS043",
+  "E": "PKD22CS056",
+  "F": "PKD22CS069"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS005",
+  "B": "PKD22CS018",
+  "C": "PKD22CS031",
+  "D": "PKD22CS044",
+  "E": "PKD22CS057",
+  "F": "PKD22CS070"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS006",
+  "B": "PKD22CS019",
+  "C": "PKD22CS032",
+  "D": "PKD22CS045",
+  "E": "PKD22CS058",
+  "F": "PKD22CS071"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS007",
+  "B": "PKD22CS020",
+  "C": "PKD22CS033",
+  "D": "PKD22CS046",
+  "E": "PKD22CS059",
+  "F": "PKD22CS072"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS008",
+  "B": "PKD22CS021",
+  "C": "PKD22CS034",
+  "D": "PKD22CS047",
+  "E": "PKD22CS060",
+  "F": "PKD22CS073"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS009",
+  "B": "PKD22CS022",
+  "C": "PKD22CS035",
+  "D": "PKD22CS048",
+  "E": "PKD22CS061",
+  "F": "PKD22CS074"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS010",
+  "B": "PKD22CS023",
+  "C": "PKD22CS036",
+  "D": "PKD22CS049",
+  "E": "PKD22CS062",
+  "F": "PKD22CS075"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS011",
+  "B": "PKD22CS024",
+  "C": "PKD22CS037",
+  "D": "PKD22CS050",
+  "E": "PKD22CS063",
+  "F": "PKD22CS076"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS012",
+  "B": "PKD22CS025",
+  "C": "PKD22CS038",
+  "D": "PKD22CS051",
+  "E": "PKD22CS064",
+  "F": "PKD22CS077"
+ },
+ {
+  "ROOM": "CST118",
+  "A": "PKD22CS013",
+  "B": "PKD22CS026",
+  "C": "PKD22CS039",
+  "D": "PKD22CS052",
+  "E": "PKD22CS065",
+  "F": "PKD22CS078"
+ },
+ {
+  "A": "A",
+  "B": "B",
+  "C": "C",
+  "D": "D",
+  "E": "E",
+  "F": "F"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS001",
+  "B": "PKD22EC011",
+  "C": "LPKD23IT021",
+  "D": "PKD24EE031",
+  "E": "PKD20CS041",
+  "F": "LPKD22CS071"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS002",
+  "B": "PKD22EC012",
+  "C": "LPKD23IT022",
+  "D": "PKD24EE032",
+  "E": "PKD20CS042",
+  "F": "LPKD22CS072"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS003",
+  "B": "PKD22EC013",
+  "C": "LPKD23IT023",
+  "D": "PKD24EE033",
+  "E": "PKD20CS043",
+  "F": "LPKD22CS073"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS004",
+  "B": "PKD22EC014",
+  "C": "LPKD23IT024",
+  "D": "PKD24EE034",
+  "E": "PKD20CS044",
+  "F": "LPKD22CS074"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS005",
+  "B": "PKD22EC015",
+  "C": "LPKD23IT025",
+  "D": "PKD24EE035",
+  "E": "PKD20CS045",
+  "F": "LPKD22CS075"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS006",
+  "B": "PKD22EC016",
+  "C": "LPKD23IT026",
+  "D": "PKD24EE036",
+  "E": "PKD20CS046",
+  "F": "LPKD22CS076"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS007",
+  "B": "PKD22EC017",
+  "C": "LPKD23IT027",
+  "D": "PKD24EE037",
+  "E": "PKD20CS047",
+  "F": "LPKD22CS077"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS008",
+  "B": "PKD22EC018",
+  "C": "LPKD23IT028",
+  "D": "PKD24EE038",
+  "E": "PKD20CS048",
+  "F": "LPKD22CS078"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS009",
+  "B": "PKD22EC019",
+  "C": "LPKD23IT029",
+  "D": "PKD24EE039",
+  "E": "PKD20CS049",
+  "F": "LPKD22CS079"
+ },
+ {
+  "ROOM": "CS 131",
+  "A": "PKD21CS010",
+  "B": "PKD22EC020",
+  "C": "LPKD23IT030",
+  "D": "PKD24EE040",
+  "E": "PKD20CS050",
+  "F": "LPKD22CS080"
+ },
+ {
+  "A": "A",
+  "B": "B",
+  "C": "C",
+  "D": "D",
+  "E": "E",
+  "F": "F"
+ },
+ {
+  "ROOM": "   IT 209",
+  "A": "PKD21CS011",
+  "B": "PKD22EC021",
+  "C": "LPKD23IT031",
+  "D": "PKD24EE041",
+  "E": "PKD20CS051",
+  "F": "PKD21CS001"
+ },
+ {
+  "ROOM": "   IT 209",
+  "A": "PKD21CS012",
+  "B": "PKD22EC022",
+  "C": "LPKD23IT032",
+  "D": "PKD24EE042",
+  "E": "PKD20CS052",
+  "F": "PKD21CS002"
+ },
+ {
+  "ROOM": "   IT 209",
+  "A": "PKD21CS013",
+  "B": "PKD22EC023",
+  "C": "LPKD23IT033",
+  "D": "PKD24EE043",
+  "E": "PKD20CS053",
+  "F": "PKD21CS003"
+ },
+ {
+  "ROOM": "   IT 209",
+  "A": "PKD21CS014",
+  "B": "PKD22EC024",
+  "C": "LPKD23IT034",
+  "D": "PKD24EE044",
+  "E": "PKD20CS054",
+  "F": "PKD21CS004"
+ },
+ {
+  "ROOM": "   IT 209",
+  "A": "PKD21CS015",
+  "B": "PKD22EC025",
+  "C": "LPKD23IT035",
+  "D": "PKD24EE045",
+  "E": "PKD20CS055",
+  "F": "PKD21CS005"
+ },
+ {
+  "ROOM": "   IT 209",
+  "A": "PKD21CS016",
+  "B": "PKD22EC026",
+  "C": "LPKD23IT036",
+  "D": "PKD24EE046",
+  "E": "PKD20CS056",
+  "F": "PKD21CS006"
+ },
+ {
+  "ROOM": "   ",
+  "A": "A",
+  "B": "B",
+  "C": "C",
+  "D": "D",
+  "E": "E",
+  "F": "F"
+ },
+ {
+  "ROOM": "   IT 216",
+  "A": "PKD21CS017",
+  "B": "PKD22EC027",
+  "C": "LPKD23IT037",
+  "D": "PKD24EE047",
+  "E": "PKD20CS057",
+  "F": "PKD21CS007"
+ },
+ {
+  "ROOM": "   IT 216",
+  "A": "PKD21CS018",
+  "B": "PKD22EC028",
+  "C": "LPKD23IT038",
+  "D": "PKD24EE048",
+  "E": "PKD20CS058",
+  "F": "PKD21CS008"
+ },
+ {
+  "ROOM": "   IT 216",
+  "A": "PKD21CS019",
+  "B": "PKD22EC029",
+  "C": "LPKD23IT039",
+  "D": "PKD24EE049",
+  "E": "PKD20CS059",
+  "F": "PKD21CS009"
+ },
+ {
+  "ROOM": "   IT 216",
+  "A": "PKD21CS020",
+  "B": "PKD22EC030",
+  "C": "LPKD23IT040",
+  "D": "PKD24EE050",
+  "E": "PKD20CS060",
+  "F": "PKD21CS010"
+ },
+ {
+  "ROOM": "   IT 216",
+  "A": "PKD21CS021",
+  "B": "PKD22EC031",
+  "C": "LPKD23IT041",
+  "D": "PKD24EE051",
+  "E": "PKD20CS061",
+  "F": "PKD21CS011"
+ },
+ {
+  "ROOM": "   IT 216",
+  "A": "PKD21CS022",
+  "B": "PKD22EC032",
+  "C": "LPKD23IT042",
+  "D": "PKD24EE052",
+  "E": "PKD20CS062",
+  "F": "PKD21CS012"
+ },
+ {
+  "A": "A",
+  "B": "B",
+  "C": "C",
+  "D": "D",
+  "E": "E",
+  "F": "F"
+ },
+ {
+  "ROOM": "   IT 206",
+  "A": "PKD21CS023",
+  "B": "PKD22EC033",
+  "C": "LPKD23IT043",
+  "D": "PKD24EE053",
+  "E": "PKD20CS063",
+  "F": "PKD21CS013"
+ },
+ {
+  "ROOM": "   IT 206",
+  "A": "PKD21CS024",
+  "B": "PKD22EC034",
+  "C": "LPKD23IT044",
+  "D": "PKD24EE054",
+  "E": "PKD20CS064",
+  "F": "PKD21CS014"
+ },
+ {
+  "ROOM": "   IT 206",
+  "A": "PKD21CS025",
+  "B": "PKD22EC035",
+  "C": "LPKD23IT045",
+  "D": "PKD24EE055",
+  "E": "PKD20CS065",
+  "F": "PKD21CS015"
+ },
+ {
+  "ROOM": "   IT 206",
+  "A": "PKD21CS026",
+  "B": "PKD22EC036",
+  "C": "LPKD23IT046",
+  "D": "PKD24EE056",
+  "E": "PKD20CS066",
+  "F": "PKD21CS016"
+ },
+ {
+  "ROOM": "   IT 206",
+  "A": "PKD21CS027",
+  "B": "PKD22EC037",
+  "C": "LPKD23IT047",
+  "D": "PKD24EE057",
+  "E": "PKD20CS067",
+  "F": "PKD21CS017"
+ },
+ {
+  "ROOM": "   IT 206",
+  "A": "PKD21CS028",
+  "B": "PKD22EC038",
+  "C": "LPKD23IT048",
+  "D": "PKD24EE058",
+  "E": "PKD20CS068",
+  "F": "PKD21CS018"
+ },
+ {
+  "A": "A",
+  "B": "B",
+  "C": "C",
+  "D": "D",
+  "E": "E",
+  "F": "F"
+ },
+ {
+  "ROOM": "  CS 203",
+  "A": "PKD21CS029",
+  "B": "PKD22EC039",
+  "C": "LPKD23IT049",
+  "D": "PKD24EE059",
+  "E": "PKD20CS069",
+  "F": "PKD21CS019"
+ },
+ {
+  "ROOM": "  CS 203",
+  "A": "PKD21CS030",
+  "B": "PKD22EC040",
+  "C": "LPKD23IT050",
+  "D": "PKD24EE060",
+  "E": "PKD20CS070",
+  "F": "PKD21CS020"
+ },
+ {
+  "ROOM": "  CS 203",
+  "A": "PKD21CS031",
+  "B": "PKD22EC041",
+  "C": "LPKD23IT051",
+  "D": "PKD24EE061",
+  "E": "PKD20CS071",
+  "F": "PKD21CS021"
+ },
+ {
+  "ROOM": "  CS 203",
+  "A": "PKD21CS032",
+  "B": "PKD22EC042",
+  "C": "LPKD23IT052",
+  "D": "PKD24EE062",
+  "E": "PKD20CS072",
+  "F": "PKD21CS022"
+ },
+ {
+  "ROOM": "  CS 203",
+  "A": "PKD21CS033",
+  "B": "PKD22EC043",
+  "C": "LPKD23IT053",
+  "D": "PKD24EE063",
+  "E": "PKD20CS073",
+  "F": "PKD21CS023"
+ },
+ {
+  "ROOM": "  CS 203",
+  "A": "PKD21CS034",
+  "B": "PKD22EC044",
+  "C": "LPKD23IT054",
+  "D": "PKD24EE064",
+  "E": "PKD20CS074",
+  "F": "PKD21CS024"
+ }
+]
