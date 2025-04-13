@@ -1,6 +1,9 @@
 # flutter_firebase_conn
 
 A new Flutter project.
+i created this project after the submission date for my mini project in my colleage
+i have created a dull version before at the time of submission
+in this i have updated the project that admin can upload the excel sheet to firebase and every user can retrive the information from their own mobile
 
 ## Getting Started
 
